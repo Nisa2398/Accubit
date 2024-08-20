@@ -16,8 +16,8 @@ This project demonstrates how to integrate RabbitMQ with Express.js, handle file
 **RabbitMQ Messaging**: Connect and consume messages from RabbitMQ queues.
 **API Routing**: Handle user-related requests with validation.
 ## API Endpoints
-**POST /users: Add a new user with validation.
-POST /msg: Upload files and send messages.
+**POST /users**: Add a new user with validation.
+**POST /msg**: Upload files and send messages.
 ## Usage
 1. **File Upload**:
 Upload files via the /msg endpoint using form-data.
